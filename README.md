@@ -1,14 +1,13 @@
 # 👋 Hey there, I'm Miguel Angel!
 
-🚀 **Backend Java Developer** | Passionate about building scalable & efficient systems
+☕️ **Backend Java Developer** | Passionate about building scalable & efficient systems
 
 ---
 
 ## 🌟 About Me
 - 💻 Junior Backend Developer specializing in **Java, Spring Boot & Relational Databases**
 - 🔍 Interested in **Microservices, Cloud, and Clean Architecture**
-- 🎯 Currently learning **Kubernetes & Advanced Spring Boot**
-- 💡 Love contributing to open-source & building side projects
+- 🎯 Currently learning **AWS & Advanced Spring Boot**
 
 ---
 
@@ -19,7 +18,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
